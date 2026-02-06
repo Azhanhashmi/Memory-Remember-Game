@@ -1,6 +1,6 @@
 import { GameHeader } from "./component/GameHeader"
 import { Card } from "./component/Card"
-import { WinMessage } from "./component/winMessage"
+import { WinMessage } from "./component/WinMessage"
 
 import { useGameLogic } from "./hooks/useGameLogic"
  const cardValues=[
